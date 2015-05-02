@@ -1,0 +1,7 @@
+nbproject/**/*
+vendor/**/*
+composer.lock
+html/css/bootstrap.min.css
+html/fonts/**/*
+html/js/bootstrap.min.js
+html/js/jquery.min.js
