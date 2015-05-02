@@ -51,7 +51,7 @@ Remember that **[BootHelp]** just generates HTML code acording Bootstrap specifi
 
 2. Get inside **BootHelpDemo** root folder and execute:
 	```
-    php composer.phar init
+    php composer.phar install
     ```
 
 3.  Copy the followings files into specified locations:
