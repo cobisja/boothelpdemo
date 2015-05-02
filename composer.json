@@ -2,7 +2,7 @@
     "name": "cobisja\boothelpdemo",
     "description": "PHP Helpers for Bootstrap demo",
     "license": "MIT",
-    "keywords": ["bootstrap", "helpers", "demo"],
+    "keywords": ["bootstrap", "boothelp", "helpers"],
     "authors": [
         {
             "name": "Jorge Cobis",
